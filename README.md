@@ -35,7 +35,7 @@ npm install -g react-native-cli
 第二步 : 下载完成后, 按提示完成安装.
 打开Finder,可以在下图所示的路径中找到安装好的jdk:
 其中Contents下的Home文件夹，是该JDK的根目录
-
+ ![JDK的根目录](./blob/master/img-storage/jdk_dir.png)
 
 
  
