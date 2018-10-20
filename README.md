@@ -64,8 +64,7 @@ man目录下存放JDK开发工具的说明文档。
 1.打开终端：
 
 2.如果你是第一次配置环境变量，可以使用“touch .bash_profile” 创建一个.bash_profile的隐藏配置文件(如果你是为编辑已存在的配置文件，则使用"open -e .bash_profile"命令)：
-！[配置文件](https://github.com/JackYang3567/react-native/blob/master/img-storage/bash_profile.png)
-
+![配置文件](https://github.com/JackYang3567/react-native/blob/master/img-storage/bash_profile.png)
 3.输入“open -e .bash_profile”命令：
  
 
